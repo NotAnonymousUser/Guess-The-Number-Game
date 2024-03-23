@@ -1,10 +1,13 @@
 {
-  "name": "guess-the-number",
-  "version": "1.0.0",
+  "name": "@muhammad-mubeen-javed/guess-the-number",
+  "version": "1.0.1",
   "description": "the program will generate a random number , the user has to guess it.",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
