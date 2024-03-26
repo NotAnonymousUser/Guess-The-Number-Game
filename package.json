@@ -1,7 +1,7 @@
 {
   "name": "@muhammad-mubeen-javed/guess-the-number",
-  "version": "1.0.1",
-  "description": "the program will generate a random number , the user has to guess it.",
+  "version": "1.0.2",
+  "description": "This is a simple cli program that will generate a random number , the user has to guess it.",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
